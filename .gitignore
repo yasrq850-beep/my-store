@@ -1,0 +1,4 @@
+node_modules/
+build-error.txt
+android/.gradle/
+android/build/

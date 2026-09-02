@@ -1,0 +1,16 @@
+{
+  "settings": {
+    "storeName": "MY STORE",
+    "currency": "USD",
+    "language": "ar"
+  },
+  "users": [],
+  "categories": [
+    "عام",
+    "اختبار"
+  ],
+  "products": [],
+  "orders": [],
+  "points": [],
+  "referrals": []
+}

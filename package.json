@@ -1,0 +1,1 @@
+{"name":"my-store","version":"1.0.0","main":"index.js","scripts":{"start":"node index.js"},"dependencies":{"@capacitor/android":"^8.5.1","@capacitor/cli":"^8.5.1","@capacitor/core":"^8.5.1","express":"^5.2.1"}}
